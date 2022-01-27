@@ -1,2 +1,4 @@
 # Data_Science_Pocket
- pequenos projetos de Data Science
+ Repositório com treinamento de Data Science, servindo de consulta para quem quiser utilizar.
+O que vai achar nesse repositório:
+
