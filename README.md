@@ -3,3 +3,4 @@
 O que vai achar nesse repositório:
 
 - analise turbina eolica
+- manipulando brilho imagem
